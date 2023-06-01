@@ -1,0 +1,9 @@
+docopt==0.6.2
+docopt-subcommands==4.0.0
+importlib-metadata==3.3.0
+numpy==1.21.1
+pbr==5.5.1
+segpy==2.0.4
+stevedore==3.3.0
+typing-extensions==3.7.4.3
+zipp==3.4.0
